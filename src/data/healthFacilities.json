@@ -1,0 +1,615 @@
+﻿[
+    {
+        "id":  1,
+        "name":  {
+                     "zh":  "校医院（赤峰路50号）",
+                     "en":  "Campus Hospital (50 Chifeng Road)"
+                 },
+        "category":  "medical",
+        "location":  {
+                         "lat":  31.282687,
+                         "lng":  121.496356
+                     },
+        "description":  {
+                            "zh":  "内科急诊24小时。",
+                            "en":  "24-hour internal medicine emergency service."
+                        },
+        "scenes":  {
+                       "zh":  [
+                                  "基础门诊",
+                                  "急诊处理",
+                                  "健康咨询"
+                              ],
+                       "en":  [
+                                  "Outpatient care",
+                                  "Emergency treatment",
+                                  "Health consultation"
+                              ]
+                   },
+        "recommended_time":  {
+                                 "zh":  "工作日7:45-11:15/13:15-16:45；周末8:00-11:15/13:30-16:45",
+                                 "en":  "Weekdays 7:45-11:15/13:15-16:45; weekends 8:00-11:15/13:30-16:45"
+                             },
+        "phone":  "021-65983221"
+    },
+    {
+        "id":  3,
+        "name":  {
+                     "zh":  "图书馆一楼大厅AED",
+                     "en":  "AED in Library First-Floor Lobby"
+                 },
+        "category":  "aed",
+        "location":  {
+                         "lat":  31.285333,
+                         "lng":  121.499469
+                     },
+        "description":  {
+                            "zh":  "急救除颤设备。",
+                            "en":  "Emergency defibrillation equipment."
+                        },
+        "scenes":  {
+                       "zh":  [
+                                  "心脏骤停急救",
+                                  "除颤",
+                                  "紧急响应"
+                              ],
+                       "en":  [
+                                  "Cardiac arrest aid",
+                                  "Defibrillation",
+                                  "Emergency response"
+                              ]
+                   },
+        "recommended_time":  {
+                                 "zh":  "24小时可用",
+                                 "en":  "Available 24 hours"
+                             }
+    },
+    {
+        "id":  4,
+        "name":  {
+                     "zh":  "瑞安楼一楼AED",
+                     "en":  "AED on the First Floor of Ruian Building"
+                 },
+        "category":  "aed",
+        "location":  {
+                         "lat":  31.286752,
+                         "lng":  121.497988
+                     },
+        "description":  {
+                            "zh":  "急救除颤设备。",
+                            "en":  "Emergency defibrillation equipment."
+                        },
+        "scenes":  {
+                       "zh":  [
+                                  "心脏骤停急救",
+                                  "除颤",
+                                  "紧急响应"
+                              ],
+                       "en":  [
+                                  "Cardiac arrest aid",
+                                  "Defibrillation",
+                                  "Emergency response"
+                              ]
+                   },
+        "recommended_time":  {
+                                 "zh":  "24小时可用",
+                                 "en":  "Available 24 hours"
+                             }
+    },
+    {
+        "id":  5,
+        "name":  {
+                     "zh":  "大学生健身中心",
+                     "en":  "Student Fitness Center"
+                 },
+        "category":  "fitness",
+        "location":  {
+                         "lat":  31.284681,
+                         "lng":  121.493084
+                     },
+        "description":  {
+                            "zh":  "力量区、有氧区、功能性训练区。",
+                            "en":  "Strength area, cardio area, and functional training area."
+                        },
+        "scenes":  {
+                       "zh":  [
+                                  "力量训练",
+                                  "有氧运动",
+                                  "功能训练"
+                              ],
+                       "en":  [
+                                  "Strength training",
+                                  "Cardio exercise",
+                                  "Functional training"
+                              ]
+                   },
+        "recommended_time":  {
+                                 "zh":  "7:00-22:00",
+                                 "en":  "7:00-22:00"
+                             },
+        "phone":  "021-65983310"
+    },
+    {
+        "id":  6,
+        "name":  {
+                     "zh":  "一二九运动场（田径场）",
+                     "en":  "Yierjiu Sports Field (Track Field)"
+                 },
+        "category":  "fitness",
+        "location":  {
+                         "lat":  31.282192,
+                         "lng":  121.49949
+                     },
+        "description":  {
+                            "zh":  "室外田径跑步场地。",
+                            "en":  "Outdoor track and running field."
+                        },
+        "scenes":  {
+                       "zh":  [
+                                  "晨跑",
+                                  "夜跑",
+                                  "户外锻炼"
+                              ],
+                       "en":  [
+                                  "Morning run",
+                                  "Night run",
+                                  "Outdoor exercise"
+                              ]
+                   },
+        "recommended_time":  {
+                                 "zh":  "6:00-22:00",
+                                 "en":  "6:00-22:00"
+                             }
+    },
+    {
+        "id":  23,
+        "name":  {
+                     "zh":  "南校区运动场",
+                     "en":  "South Campus Sports Field"
+                 },
+        "category":  "fitness",
+        "location":  {
+                         "lat":  31.281803,
+                         "lng":  121.493578
+                     },
+        "description":  {
+                            "zh":  "南校区室外运动区域。",
+                            "en":  "Outdoor sports area on the south campus."
+                        },
+        "scenes":  {
+                       "zh":  [
+                                  "户外运动",
+                                  "跑步",
+                                  "放松锻炼"
+                              ],
+                       "en":  [
+                                  "Outdoor exercise",
+                                  "Running",
+                                  "Relaxed workout"
+                              ]
+                   },
+        "recommended_time":  {
+                                 "zh":  "开放时间暂未确认",
+                                 "en":  "Opening hours to be confirmed"
+                             }
+    },
+    {
+        "id":  8,
+        "name":  {
+                     "zh":  "游泳馆（B02）",
+                     "en":  "Swimming Pool (B02)"
+                 },
+        "category":  "fitness",
+        "location":  {
+                         "lat":  31.282981,
+                         "lng":  121.497408
+                     },
+        "description":  {
+                            "zh":  "校内标准游泳场馆。",
+                            "en":  "Standard on-campus swimming facility."
+                        },
+        "scenes":  {
+                       "zh":  [
+                                  "游泳训练",
+                                  "有氧运动",
+                                  "恢复训练"
+                              ],
+                       "en":  [
+                                  "Swimming training",
+                                  "Cardio exercise",
+                                  "Recovery training"
+                              ]
+                   },
+        "recommended_time":  {
+                                 "zh":  "12:00-21:00",
+                                 "en":  "12:00-21:00"
+                             },
+        "phone":  "021-65985413"
+    },
+    {
+        "id":  9,
+        "name":  {
+                     "zh":  "乒乓球/攀岩馆",
+                     "en":  "Table Tennis and Climbing Hall"
+                 },
+        "category":  "fitness",
+        "location":  {
+                         "lat":  31.283829,
+                         "lng":  121.499215
+                     },
+        "description":  {
+                            "zh":  "乒乓球、攀岩运动。",
+                            "en":  "Table tennis and climbing activities."
+                        },
+        "scenes":  {
+                       "zh":  [
+                                  "乒乓球",
+                                  "攀岩",
+                                  "协调训练"
+                              ],
+                       "en":  [
+                                  "Table tennis",
+                                  "Climbing",
+                                  "Coordination training"
+                              ]
+                   },
+        "recommended_time":  {
+                                 "zh":  "15:30-21:00；周末10:00-21:00",
+                                 "en":  "15:30-21:00; weekends 10:00-21:00"
+                             }
+    },
+    {
+        "id":  10,
+        "name":  {
+                     "zh":  "网球场",
+                     "en":  "Tennis Court"
+                 },
+        "category":  "fitness",
+        "location":  {
+                         "lat":  31.284663,
+                         "lng":  121.497134
+                     },
+        "description":  {
+                            "zh":  "室外网球场地。",
+                            "en":  "Outdoor tennis courts."
+                        },
+        "scenes":  {
+                       "zh":  [
+                                  "网球训练",
+                                  "户外运动",
+                                  "社交运动"
+                              ],
+                       "en":  [
+                                  "Tennis practice",
+                                  "Outdoor exercise",
+                                  "Social sports"
+                              ]
+                   },
+        "recommended_time":  {
+                                 "zh":  "6:30-21:00",
+                                 "en":  "6:30-21:00"
+                             }
+    },
+    {
+        "id":  11,
+        "name":  {
+                     "zh":  "学生心理健康教育中心",
+                     "en":  "Student Mental Health Education Center"
+                 },
+        "category":  "mental_support",
+        "location":  {
+                         "lat":  31.285949,
+                         "lng":  121.496603
+                     },
+        "description":  {
+                            "zh":  "心理咨询、压力疏导、团体辅导。",
+                            "en":  "Counseling, stress management, and group guidance."
+                        },
+        "scenes":  {
+                       "zh":  [
+                                  "心理咨询",
+                                  "压力疏导",
+                                  "团体辅导"
+                              ],
+                       "en":  [
+                                  "Counseling",
+                                  "Stress management",
+                                  "Group guidance"
+                              ]
+                   },
+        "recommended_time":  {
+                                 "zh":  "工作日9:00-17:00",
+                                 "en":  "Weekdays 9:00-17:00"
+                             },
+        "phone":  "021-65980120"
+    },
+    {
+        "id":  12,
+        "name":  {
+                     "zh":  "学苑饮食广场",
+                     "en":  "Xueyuan Dining Plaza"
+                 },
+        "category":  "nutrition",
+        "location":  {
+                         "lat":  31.2843,
+                         "lng":  121.498582
+                     },
+        "description":  {
+                            "zh":  "快餐、中点、自选套餐。",
+                            "en":  "Fast food, Chinese snacks, and self-service set meals."
+                        },
+        "scenes":  {
+                       "zh":  [
+                                  "日常用餐",
+                                  "快餐",
+                                  "营养补给"
+                              ],
+                       "en":  [
+                                  "Daily meals",
+                                  "Fast food",
+                                  "Nutrition support"
+                              ]
+                   },
+        "recommended_time":  {
+                                 "zh":  "6:00-13:00/16:00-19:00",
+                                 "en":  "6:00-13:00/16:00-19:00"
+                             }
+    },
+    {
+        "id":  13,
+        "name":  {
+                     "zh":  "西苑饮食广场",
+                     "en":  "Xiyuan Dining Plaza"
+                 },
+        "category":  "nutrition",
+        "location":  {
+                         "lat":  31.28494,
+                         "lng":  121.493477
+                     },
+        "description":  {
+                            "zh":  "夜宵、拉面、小炒。",
+                            "en":  "Late-night food, noodles, and stir-fried dishes."
+                        },
+        "scenes":  {
+                       "zh":  [
+                                  "夜宵",
+                                  "面食",
+                                  "课后用餐"
+                              ],
+                       "en":  [
+                                  "Late-night food",
+                                  "Noodles",
+                                  "After-class meals"
+                              ]
+                   },
+        "recommended_time":  {
+                                 "zh":  "6:30-13:30/16:00-23:00",
+                                 "en":  "6:30-13:30/16:00-23:00"
+                             }
+    },
+    {
+        "id":  14,
+        "name":  {
+                     "zh":  "北苑饮食广场",
+                     "en":  "Beiyuan Dining Plaza"
+                 },
+        "category":  "nutrition",
+        "location":  {
+                         "lat":  31.288393,
+                         "lng":  121.496228
+                     },
+        "description":  {
+                            "zh":  "智能自选、特色风味餐。",
+                            "en":  "Smart self-service meals and specialty dishes."
+                        },
+        "scenes":  {
+                       "zh":  [
+                                  "自选餐",
+                                  "特色风味",
+                                  "日常用餐"
+                              ],
+                       "en":  [
+                                  "Self-service meals",
+                                  "Specialty dishes",
+                                  "Daily meals"
+                              ]
+                   },
+        "recommended_time":  {
+                                 "zh":  "10:30-13:00/16:30-19:00",
+                                 "en":  "10:30-13:00/16:30-19:00"
+                             }
+    },
+    {
+        "id":  15,
+        "name":  {
+                     "zh":  "东苑饮食广场",
+                     "en":  "Dongyuan Dining Plaza"
+                 },
+        "category":  "nutrition",
+        "location":  {
+                         "lat":  31.285245,
+                         "lng":  121.509762
+                     },
+        "description":  {
+                            "zh":  "面条、早点快餐。",
+                            "en":  "Noodles, breakfast, and quick meals."
+                        },
+        "scenes":  {
+                       "zh":  [
+                                  "早餐",
+                                  "面食",
+                                  "快餐"
+                              ],
+                       "en":  [
+                                  "Breakfast",
+                                  "Noodles",
+                                  "Quick meals"
+                              ]
+                   },
+        "recommended_time":  {
+                                 "zh":  "6:30-13:00/16:00-19:00",
+                                 "en":  "6:30-13:00/16:00-19:00"
+                             }
+    },
+    {
+        "id":  16,
+        "name":  {
+                     "zh":  "三好坞餐厅",
+                     "en":  "Sanhaowu Restaurant"
+                 },
+        "category":  "nutrition",
+        "location":  {
+                         "lat":  31.28748,
+                         "lng":  121.499494
+                     },
+        "description":  {
+                            "zh":  "休闲餐饮、聚餐餐厅。",
+                            "en":  "Casual dining and group meal restaurant."
+                        },
+        "scenes":  {
+                       "zh":  [
+                                  "休闲餐饮",
+                                  "聚餐",
+                                  "社交用餐"
+                              ],
+                       "en":  [
+                                  "Casual dining",
+                                  "Group meals",
+                                  "Social dining"
+                              ]
+                   },
+        "recommended_time":  {
+                                 "zh":  "7:00-21:00",
+                                 "en":  "7:00-21:00"
+                             }
+    },
+    {
+        "id":  18,
+        "name":  {
+                     "zh":  "校园绿地与草坪（近129运动场）",
+                     "en":  "Campus Green Space (Near Yierjiu Sports Field)"
+                 },
+        "category":  "relaxation",
+        "location":  {
+                         "lat":  31.283855,
+                         "lng":  121.49729129
+                     },
+        "description":  {
+                            "zh":  "适合散步、放松与短暂休憩；情绪放松、散步、晒太阳。",
+                            "en":  "Suitable for walking, relaxation, short breaks, and sunlight exposure."
+                        },
+        "scenes":  {
+                       "zh":  [
+                                  "情绪放松",
+                                  "散步",
+                                  "晒太阳"
+                              ],
+                       "en":  [
+                                  "Relaxation",
+                                  "Walking",
+                                  "Sunlight exposure"
+                              ]
+                   },
+        "recommended_time":  {
+                                 "zh":  "推荐：晴天傍晚",
+                                 "en":  "Recommended: sunny evenings"
+                             }
+    },
+    {
+        "id":  19,
+        "name":  {
+                     "zh":  "校园绿地与草坪（图书馆北侧）",
+                     "en":  "Campus Green Space (North of Library)"
+                 },
+        "category":  "relaxation",
+        "location":  {
+                         "lat":  31.285334,
+                         "lng":  121.498764
+                     },
+        "description":  {
+                            "zh":  "适合散步、放松与短暂休憩；情绪放松、散步、晒太阳。",
+                            "en":  "Suitable for walking, relaxation, short breaks, and sunlight exposure."
+                        },
+        "scenes":  {
+                       "zh":  [
+                                  "情绪放松",
+                                  "散步",
+                                  "晒太阳"
+                              ],
+                       "en":  [
+                                  "Relaxation",
+                                  "Walking",
+                                  "Sunlight exposure"
+                              ]
+                   },
+        "recommended_time":  {
+                                 "zh":  "推荐：晴天傍晚",
+                                 "en":  "Recommended: sunny evenings"
+                             }
+    },
+    {
+        "id":  20,
+        "name":  {
+                     "zh":  "校园绿地与草坪（同济联合广场附近）",
+                     "en":  "Campus Green Space (Near Tongji Union Plaza)"
+                 },
+        "category":  "relaxation",
+        "location":  {
+                         "lat":  31.283564,
+                         "lng":  121.501999
+                     },
+        "description":  {
+                            "zh":  "适合散步、放松与短暂休憩；情绪放松、散步、晒太阳。",
+                            "en":  "Suitable for walking, relaxation, short breaks, and sunlight exposure."
+                        },
+        "scenes":  {
+                       "zh":  [
+                                  "情绪放松",
+                                  "散步",
+                                  "晒太阳"
+                              ],
+                       "en":  [
+                                  "Relaxation",
+                                  "Walking",
+                                  "Sunlight exposure"
+                              ]
+                   },
+        "recommended_time":  {
+                                 "zh":  "推荐：晴天傍晚",
+                                 "en":  "Recommended: sunny evenings"
+                             }
+    },
+    {
+        "id":  22,
+        "name":  {
+                     "zh":  "校园绿地与草坪（三好坞附近）",
+                     "en":  "Campus Green Space (Near Sanhaowu)"
+                 },
+        "category":  "relaxation",
+        "location":  {
+                         "lat":  31.28748,
+                         "lng":  121.49848
+                     },
+        "description":  {
+                            "zh":  "适合散步、放松与短暂休憩；情绪放松、散步、晒太阳。",
+                            "en":  "Suitable for walking, relaxation, short breaks, and sunlight exposure."
+                        },
+        "scenes":  {
+                       "zh":  [
+                                  "情绪放松",
+                                  "散步",
+                                  "晒太阳"
+                              ],
+                       "en":  [
+                                  "Relaxation",
+                                  "Walking",
+                                  "Sunlight exposure"
+                              ]
+                   },
+        "recommended_time":  {
+                                 "zh":  "推荐：晴天傍晚",
+                                 "en":  "Recommended: sunny evenings"
+                             }
+    }
+]
+
